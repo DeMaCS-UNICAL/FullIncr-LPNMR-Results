@@ -1,0 +1,24 @@
+<load path="problems/nurse_scheduling/10nurses/encoding.asp" />
+<load path="problems/nurse_scheduling/10nurses/10nurses.asp" background="true" />
+<load path="problems/nurse_scheduling/10nurses/instance_0.lp" />
+<run />
+<load path="problems/nurse_scheduling/10nurses/instance_1.lp" />
+<run />
+<load path="problems/nurse_scheduling/10nurses/instance_2.lp" />
+<run />
+<load path="problems/nurse_scheduling/10nurses/instance_3.lp" />
+<run />
+<load path="problems/nurse_scheduling/10nurses/instance_4.lp" />
+<run />
+<load path="problems/nurse_scheduling/10nurses/instance_5.lp" />
+<run />
+<load path="problems/nurse_scheduling/10nurses/instance_6.lp" />
+<run />
+<load path="problems/nurse_scheduling/10nurses/instance_7.lp" />
+<run />
+<load path="problems/nurse_scheduling/10nurses/instance_8.lp" />
+<run />
+<load path="problems/nurse_scheduling/10nurses/instance_9.lp" />
+<run />
+<load path="problems/nurse_scheduling/10nurses/instance_10.lp" />
+<run />

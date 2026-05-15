@@ -1,0 +1,10 @@
+impossibility(22,5,68).
+impossibility(24,6,182).
+impossibility(9,1,53).
+impossibility(16,5,81).
+impossibility(24,3,79).
+impossibility(36,1,69).
+impossibility(39,2,153).
+impossibility(10,4,125).
+impossibility(15,5,312).
+impossibility(21,6,257).

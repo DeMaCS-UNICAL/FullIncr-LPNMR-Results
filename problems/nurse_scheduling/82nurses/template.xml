@@ -1,0 +1,202 @@
+<load path="problems/nurse_scheduling/82nurses/encoding.asp" />
+<load path="problems/nurse_scheduling/82nurses/82nurses.asp" background="true" />
+<load path="problems/nurse_scheduling/82nurses/instance_0.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_1.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_2.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_3.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_4.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_5.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_6.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_7.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_8.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_9.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_10.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_11.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_12.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_13.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_14.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_15.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_16.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_17.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_18.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_19.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_20.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_21.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_22.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_23.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_24.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_25.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_26.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_27.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_28.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_29.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_30.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_31.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_32.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_33.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_34.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_35.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_36.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_37.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_38.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_39.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_40.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_41.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_42.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_43.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_44.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_45.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_46.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_47.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_48.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_49.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_50.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_51.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_52.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_53.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_54.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_55.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_56.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_57.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_58.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_59.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_60.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_61.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_62.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_63.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_64.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_65.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_66.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_67.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_68.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_69.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_70.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_71.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_72.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_73.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_74.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_75.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_76.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_77.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_78.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_79.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_80.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_81.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_82.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_83.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_84.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_85.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_86.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_87.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_88.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_89.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_90.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_91.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_92.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_93.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_94.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_95.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_96.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_97.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_98.lp" />
+<run />
+<load path="problems/nurse_scheduling/82nurses/instance_99.lp" />
+<run />

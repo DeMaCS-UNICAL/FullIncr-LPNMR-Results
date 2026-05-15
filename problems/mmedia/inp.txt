@@ -1,0 +1,4043 @@
+<load path="problems/mmedia/encoding.lp" />
+<load path="problems/mmedia/shot.1.rewritten.lp" />
+<run />
+<load path="problems/mmedia/shot.2.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.3.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.4.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.5.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.6.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.7.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.8.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.9.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.10.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.11.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.12.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.13.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.14.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.15.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.16.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.17.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.18.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.19.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.20.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.21.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.22.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.23.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.24.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.25.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.26.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.27.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.28.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.29.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.30.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.31.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.32.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.33.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.34.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.35.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.36.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.37.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.38.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.39.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.40.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.41.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.42.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.43.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.44.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.45.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.46.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.47.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.48.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.49.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.50.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.51.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.52.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.53.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.54.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.55.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.56.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.57.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.58.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.59.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.60.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.61.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.62.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.63.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.64.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.65.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.66.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.67.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.68.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.69.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.70.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.71.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.72.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.73.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.74.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.75.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.76.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.77.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.78.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.79.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.80.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.81.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.82.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.83.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.84.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.85.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.86.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.87.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.88.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.89.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.90.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.91.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.92.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.93.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.94.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.95.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.96.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.97.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.98.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.99.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.100.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.101.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.102.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.103.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.104.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.105.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.106.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.107.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.108.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.109.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.110.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.111.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.112.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.113.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.114.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.115.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.116.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.117.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.118.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.119.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.120.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.121.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.122.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.123.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.124.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.125.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.126.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.127.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.128.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.129.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.130.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.131.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.132.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.133.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.134.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.135.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.136.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.137.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.138.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.139.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.140.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.141.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.142.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.143.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.144.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.145.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.146.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.147.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.148.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.149.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.150.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.151.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.152.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.153.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.154.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.155.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.156.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.157.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.158.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.159.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.160.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.161.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.162.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.163.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.164.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.165.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.166.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.167.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.168.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.169.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.170.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.171.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.172.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.173.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.174.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.175.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.176.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.177.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.178.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.179.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.180.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.181.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.182.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.183.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.184.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.185.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.186.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.187.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.188.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.189.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.190.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.191.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.192.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.193.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.194.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.195.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.196.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.197.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.198.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.199.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.200.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.201.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.202.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.203.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.204.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.205.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.206.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.207.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.208.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.209.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.210.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.211.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.212.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.213.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.214.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.215.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.216.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.217.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.218.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.219.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.220.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.221.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.222.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.223.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.224.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.225.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.226.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.227.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.228.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.229.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.230.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.231.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.232.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.233.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.234.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.235.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.236.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.237.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.238.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.239.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.240.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.241.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.242.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.243.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.244.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.245.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.246.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.247.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.248.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.249.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.250.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.251.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.252.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.253.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.254.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.255.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.256.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.257.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.258.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.259.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.260.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.261.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.262.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.263.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.264.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.265.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.266.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.267.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.268.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.269.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.270.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.271.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.272.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.273.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.274.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.275.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.276.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.277.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.278.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.279.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.280.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.281.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.282.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.283.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.284.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.285.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.286.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.287.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.288.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.289.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.290.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.291.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.292.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.293.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.294.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.295.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.296.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.297.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.298.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.299.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.300.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.301.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.302.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.303.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.304.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.305.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.306.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.307.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.308.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.309.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.310.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.311.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.312.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.313.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.314.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.315.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.316.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.317.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.318.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.319.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.320.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.321.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.322.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.323.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.324.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.325.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.326.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.327.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.328.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.329.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.330.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.331.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.332.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.333.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.334.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.335.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.336.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.337.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.338.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.339.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.340.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.341.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.342.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.343.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.344.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.345.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.346.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.347.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.348.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.349.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.350.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.351.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.352.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.353.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.354.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.355.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.356.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.357.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.358.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.359.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.360.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.361.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.362.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.363.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.364.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.365.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.366.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.367.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.368.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.369.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.370.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.371.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.372.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.373.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.374.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.375.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.376.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.377.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.378.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.379.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.380.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.381.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.382.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.383.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.384.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.385.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.386.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.387.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.388.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.389.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.390.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.391.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.392.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.393.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.394.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.395.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.396.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.397.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.398.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.399.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.400.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.401.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.402.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.403.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.404.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.405.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.406.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.407.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.408.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.409.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.410.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.411.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.412.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.413.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.414.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.415.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.416.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.417.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.418.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.419.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.420.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.421.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.422.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.423.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.424.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.425.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.426.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.427.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.428.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.429.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.430.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.431.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.432.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.433.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.434.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.435.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.436.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.437.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.438.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.439.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.440.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.441.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.442.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.443.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.444.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.445.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.446.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.447.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.448.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.449.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.450.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.451.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.452.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.453.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.454.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.455.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.456.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.457.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.458.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.459.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.460.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.461.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.462.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.463.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.464.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.465.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.466.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.467.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.468.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.469.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.470.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.471.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.472.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.473.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.474.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.475.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.476.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.477.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.478.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.479.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.480.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.481.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.482.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.483.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.484.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.485.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.486.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.487.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.488.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.489.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.490.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.491.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.492.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.493.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.494.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.495.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.496.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.497.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.498.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.499.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.500.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.501.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.502.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.503.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.504.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.505.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.506.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.507.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.508.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.509.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.510.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.511.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.512.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.513.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.514.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.515.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.516.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.517.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.518.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.519.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.520.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.521.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.522.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.523.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.524.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.525.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.526.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.527.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.528.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.529.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.530.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.531.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.532.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.533.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.534.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.535.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.536.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.537.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.538.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.539.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.540.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.541.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.542.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.543.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.544.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.545.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.546.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.547.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.548.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.549.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.550.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.551.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.552.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.553.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.554.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.555.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.556.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.557.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.558.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.559.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.560.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.561.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.562.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.563.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.564.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.565.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.566.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.567.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.568.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.569.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.570.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.571.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.572.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.573.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.574.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.575.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.576.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.577.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.578.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.579.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.580.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.581.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.582.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.583.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.584.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.585.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.586.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.587.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.588.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.589.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.590.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.591.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.592.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.593.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.594.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.595.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.596.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.597.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.598.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.599.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.600.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.601.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.602.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.603.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.604.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.605.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.606.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.607.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.608.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.609.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.610.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.611.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.612.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.613.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.614.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.615.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.616.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.617.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.618.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.619.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.620.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.621.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.622.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.623.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.624.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.625.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.626.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.627.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.628.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.629.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.630.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.631.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.632.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.633.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.634.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.635.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.636.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.637.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.638.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.639.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.640.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.641.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.642.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.643.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.644.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.645.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.646.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.647.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.648.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.649.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.650.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.651.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.652.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.653.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.654.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.655.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.656.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.657.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.658.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.659.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.660.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.661.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.662.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.663.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.664.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.665.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.666.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.667.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.668.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.669.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.670.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.671.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.672.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.673.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.674.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.675.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.676.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.677.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.678.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.679.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.680.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.681.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.682.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.683.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.684.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.685.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.686.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.687.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.688.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.689.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.690.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.691.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.692.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.693.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.694.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.695.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.696.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.697.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.698.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.699.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.700.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.701.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.702.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.703.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.704.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.705.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.706.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.707.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.708.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.709.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.710.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.711.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.712.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.713.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.714.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.715.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.716.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.717.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.718.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.719.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.720.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.721.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.722.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.723.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.724.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.725.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.726.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.727.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.728.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.729.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.730.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.731.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.732.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.733.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.734.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.735.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.736.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.737.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.738.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.739.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.740.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.741.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.742.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.743.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.744.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.745.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.746.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.747.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.748.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.749.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.750.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.751.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.752.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.753.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.754.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.755.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.756.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.757.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.758.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.759.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.760.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.761.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.762.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.763.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.764.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.765.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.766.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.767.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.768.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.769.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.770.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.771.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.772.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.773.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.774.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.775.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.776.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.777.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.778.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.779.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.780.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.781.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.782.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.783.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.784.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.785.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.786.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.787.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.788.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.789.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.790.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.791.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.792.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.793.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.794.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.795.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.796.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.797.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.798.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.799.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.800.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.801.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.802.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.803.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.804.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.805.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.806.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.807.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.808.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.809.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.810.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.811.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.812.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.813.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.814.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.815.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.816.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.817.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.818.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.819.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.820.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.821.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.822.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.823.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.824.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.825.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.826.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.827.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.828.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.829.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.830.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.831.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.832.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.833.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.834.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.835.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.836.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.837.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.838.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.839.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.840.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.841.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.842.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.843.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.844.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.845.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.846.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.847.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.848.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.849.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.850.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.851.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.852.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.853.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.854.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.855.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.856.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.857.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.858.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.859.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.860.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.861.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.862.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.863.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.864.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.865.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.866.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.867.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.868.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.869.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.870.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.871.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.872.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.873.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.874.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.875.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.876.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.877.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.878.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.879.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.880.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.881.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.882.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.883.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.884.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.885.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.886.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.887.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.888.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.889.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.890.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.891.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.892.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.893.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.894.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.895.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.896.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.897.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.898.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.899.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.900.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.901.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.902.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.903.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.904.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.905.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.906.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.907.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.908.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.909.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.910.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.911.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.912.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.913.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.914.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.915.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.916.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.917.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.918.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.919.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.920.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.921.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.922.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.923.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.924.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.925.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.926.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.927.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.928.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.929.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.930.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.931.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.932.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.933.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.934.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.935.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.936.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.937.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.938.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.939.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.940.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.941.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.942.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.943.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.944.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.945.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.946.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.947.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.948.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.949.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.950.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.951.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.952.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.953.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.954.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.955.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.956.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.957.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.958.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.959.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.960.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.961.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.962.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.963.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.964.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.965.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.966.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.967.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.968.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.969.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.970.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.971.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.972.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.973.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.974.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.975.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.976.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.977.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.978.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.979.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.980.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.981.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.982.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.983.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.984.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.985.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.986.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.987.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.988.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.989.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.990.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.991.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.992.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.993.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.994.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.995.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.996.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.997.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.998.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.999.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1000.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1001.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1002.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1003.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1004.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1005.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1006.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1007.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1008.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1009.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1010.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1011.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1012.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1013.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1014.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1015.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1016.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1017.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1018.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1019.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1020.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1021.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1022.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1023.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1024.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1025.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1026.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1027.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1028.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1029.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1030.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1031.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1032.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1033.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1034.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1035.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1036.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1037.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1038.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1039.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1040.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1041.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1042.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1043.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1044.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1045.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1046.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1047.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1048.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1049.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1050.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1051.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1052.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1053.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1054.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1055.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1056.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1057.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1058.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1059.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1060.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1061.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1062.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1063.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1064.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1065.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1066.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1067.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1068.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1069.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1070.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1071.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1072.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1073.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1074.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1075.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1076.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1077.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1078.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1079.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1080.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1081.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1082.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1083.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1084.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1085.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1086.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1087.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1088.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1089.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1090.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1091.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1092.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1093.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1094.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1095.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1096.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1097.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1098.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1099.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1100.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1101.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1102.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1103.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1104.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1105.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1106.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1107.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1108.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1109.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1110.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1111.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1112.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1113.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1114.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1115.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1116.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1117.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1118.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1119.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1120.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1121.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1122.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1123.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1124.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1125.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1126.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1127.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1128.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1129.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1130.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1131.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1132.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1133.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1134.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1135.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1136.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1137.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1138.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1139.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1140.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1141.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1142.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1143.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1144.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1145.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1146.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1147.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1148.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1149.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1150.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1151.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1152.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1153.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1154.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1155.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1156.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1157.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1158.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1159.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1160.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1161.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1162.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1163.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1164.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1165.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1166.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1167.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1168.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1169.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1170.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1171.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1172.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1173.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1174.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1175.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1176.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1177.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1178.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1179.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1180.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1181.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1182.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1183.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1184.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1185.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1186.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1187.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1188.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1189.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1190.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1191.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1192.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1193.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1194.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1195.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1196.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1197.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1198.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1199.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1200.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1201.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1202.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1203.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1204.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1205.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1206.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1207.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1208.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1209.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1210.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1211.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1212.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1213.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1214.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1215.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1216.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1217.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1218.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1219.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1220.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1221.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1222.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1223.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1224.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1225.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1226.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1227.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1228.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1229.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1230.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1231.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1232.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1233.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1234.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1235.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1236.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1237.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1238.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1239.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1240.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1241.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1242.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1243.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1244.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1245.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1246.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1247.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1248.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1249.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1250.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1251.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1252.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1253.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1254.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1255.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1256.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1257.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1258.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1259.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1260.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1261.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1262.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1263.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1264.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1265.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1266.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1267.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1268.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1269.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1270.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1271.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1272.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1273.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1274.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1275.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1276.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1277.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1278.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1279.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1280.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1281.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1282.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1283.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1284.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1285.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1286.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1287.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1288.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1289.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1290.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1291.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1292.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1293.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1294.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1295.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1296.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1297.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1298.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1299.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1300.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1301.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1302.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1303.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1304.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1305.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1306.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1307.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1308.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1309.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1310.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1311.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1312.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1313.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1314.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1315.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1316.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1317.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1318.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1319.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1320.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1321.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1322.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1323.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1324.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1325.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1326.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1327.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1328.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1329.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1330.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1331.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1332.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1333.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1334.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1335.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1336.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1337.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1338.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1339.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1340.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1341.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1342.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1343.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1344.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1345.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1346.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1347.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1348.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1349.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1350.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1351.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1352.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1353.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1354.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1355.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1356.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1357.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1358.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1359.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1360.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1361.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1362.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1363.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1364.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1365.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1366.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1367.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1368.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1369.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1370.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1371.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1372.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1373.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1374.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1375.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1376.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1377.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1378.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1379.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1380.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1381.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1382.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1383.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1384.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1385.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1386.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1387.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1388.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1389.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1390.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1391.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1392.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1393.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1394.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1395.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1396.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1397.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1398.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1399.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1400.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1401.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1402.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1403.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1404.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1405.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1406.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1407.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1408.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1409.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1410.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1411.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1412.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1413.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1414.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1415.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1416.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1417.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1418.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1419.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1420.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1421.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1422.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1423.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1424.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1425.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1426.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1427.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1428.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1429.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1430.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1431.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1432.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1433.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1434.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1435.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1436.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1437.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1438.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1439.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1440.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1441.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1442.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1443.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1444.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1445.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1446.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1447.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1448.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1449.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1450.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1451.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1452.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1453.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1454.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1455.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1456.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1457.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1458.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1459.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1460.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1461.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1462.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1463.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1464.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1465.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1466.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1467.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1468.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1469.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1470.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1471.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1472.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1473.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1474.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1475.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1476.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1477.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1478.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1479.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1480.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1481.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1482.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1483.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1484.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1485.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1486.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1487.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1488.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1489.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1490.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1491.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1492.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1493.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1494.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1495.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1496.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1497.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1498.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1499.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1500.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1501.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1502.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1503.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1504.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1505.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1506.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1507.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1508.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1509.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1510.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1511.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1512.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1513.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1514.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1515.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1516.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1517.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1518.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1519.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1520.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1521.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1522.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1523.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1524.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1525.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1526.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1527.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1528.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1529.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1530.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1531.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1532.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1533.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1534.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1535.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1536.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1537.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1538.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1539.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1540.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1541.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1542.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1543.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1544.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1545.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1546.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1547.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1548.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1549.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1550.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1551.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1552.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1553.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1554.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1555.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1556.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1557.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1558.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1559.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1560.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1561.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1562.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1563.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1564.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1565.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1566.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1567.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1568.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1569.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1570.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1571.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1572.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1573.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1574.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1575.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1576.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1577.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1578.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1579.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1580.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1581.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1582.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1583.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1584.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1585.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1586.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1587.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1588.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1589.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1590.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1591.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1592.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1593.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1594.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1595.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1596.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1597.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1598.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1599.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1600.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1601.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1602.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1603.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1604.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1605.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1606.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1607.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1608.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1609.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1610.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1611.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1612.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1613.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1614.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1615.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1616.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1617.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1618.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1619.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1620.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1621.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1622.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1623.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1624.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1625.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1626.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1627.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1628.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1629.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1630.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1631.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1632.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1633.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1634.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1635.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1636.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1637.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1638.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1639.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1640.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1641.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1642.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1643.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1644.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1645.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1646.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1647.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1648.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1649.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1650.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1651.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1652.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1653.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1654.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1655.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1656.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1657.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1658.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1659.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1660.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1661.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1662.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1663.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1664.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1665.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1666.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1667.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1668.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1669.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1670.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1671.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1672.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1673.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1674.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1675.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1676.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1677.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1678.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1679.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1680.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1681.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1682.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1683.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1684.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1685.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1686.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1687.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1688.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1689.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1690.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1691.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1692.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1693.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1694.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1695.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1696.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1697.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1698.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1699.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1700.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1701.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1702.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1703.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1704.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1705.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1706.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1707.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1708.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1709.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1710.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1711.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1712.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1713.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1714.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1715.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1716.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1717.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1718.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1719.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1720.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1721.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1722.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1723.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1724.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1725.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1726.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1727.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1728.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1729.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1730.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1731.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1732.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1733.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1734.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1735.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1736.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1737.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1738.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1739.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1740.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1741.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1742.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1743.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1744.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1745.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1746.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1747.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1748.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1749.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1750.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1751.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1752.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1753.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1754.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1755.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1756.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1757.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1758.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1759.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1760.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1761.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1762.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1763.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1764.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1765.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1766.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1767.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1768.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1769.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1770.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1771.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1772.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1773.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1774.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1775.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1776.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1777.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1778.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1779.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1780.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1781.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1782.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1783.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1784.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1785.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1786.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1787.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1788.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1789.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1790.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1791.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1792.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1793.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1794.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1795.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1796.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1797.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1798.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1799.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1800.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1801.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1802.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1803.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1804.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1805.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1806.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1807.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1808.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1809.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1810.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1811.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1812.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1813.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1814.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1815.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1816.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1817.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1818.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1819.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1820.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1821.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1822.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1823.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1824.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1825.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1826.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1827.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1828.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1829.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1830.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1831.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1832.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1833.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1834.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1835.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1836.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1837.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1838.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1839.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1840.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1841.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1842.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1843.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1844.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1845.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1846.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1847.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1848.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1849.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1850.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1851.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1852.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1853.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1854.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1855.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1856.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1857.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1858.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1859.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1860.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1861.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1862.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1863.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1864.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1865.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1866.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1867.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1868.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1869.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1870.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1871.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1872.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1873.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1874.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1875.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1876.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1877.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1878.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1879.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1880.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1881.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1882.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1883.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1884.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1885.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1886.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1887.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1888.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1889.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1890.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1891.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1892.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1893.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1894.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1895.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1896.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1897.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1898.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1899.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1900.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1901.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1902.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1903.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1904.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1905.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1906.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1907.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1908.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1909.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1910.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1911.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1912.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1913.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1914.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1915.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1916.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1917.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1918.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1919.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1920.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1921.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1922.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1923.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1924.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1925.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1926.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1927.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1928.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1929.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1930.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1931.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1932.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1933.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1934.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1935.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1936.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1937.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1938.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1939.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1940.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1941.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1942.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1943.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1944.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1945.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1946.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1947.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1948.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1949.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1950.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1951.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1952.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1953.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1954.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1955.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1956.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1957.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1958.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1959.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1960.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1961.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1962.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1963.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1964.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1965.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1966.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1967.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1968.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1969.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1970.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1971.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1972.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1973.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1974.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1975.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1976.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1977.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1978.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1979.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1980.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1981.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1982.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1983.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1984.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1985.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1986.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1987.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1988.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1989.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1990.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1991.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1992.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1993.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1994.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1995.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1996.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1997.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1998.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.1999.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.2000.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.2001.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.2002.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.2003.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.2004.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.2005.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.2006.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.2007.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.2008.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.2009.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.2010.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.2011.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.2012.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.2013.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.2014.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.2015.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.2016.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.2017.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.2018.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.2019.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.2020.test.py.lp" />
+<run />
+<load path="problems/mmedia/shot.2021.test.py.lp" />
+<run />

@@ -1,0 +1,10 @@
+impossibility(1,3,114).
+impossibility(12,3,11).
+impossibility(13,6,48).
+impossibility(20,4,40).
+impossibility(11,4,311).
+impossibility(19,6,220).
+impossibility(9,5,6).
+impossibility(2,1,244).
+impossibility(18,5,40).
+impossibility(15,6,160).

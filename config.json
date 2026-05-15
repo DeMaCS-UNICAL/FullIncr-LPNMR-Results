@@ -1,0 +1,107 @@
+{
+    "systems": {
+        "no switch": {
+            "enabled": false,
+            "type": "incremental-clingo",
+            "command": [
+                "./bin/incremental-dlv2-with-clasp",
+                "--mode=dlv2clasp",
+                "--istats",
+                "--incremental-heuristic=2"
+            ]
+        },
+        "incr heu": {
+            "enabled": false,
+            "type": "incremental-clingo",
+            "command": [
+                "./bin/incremental-dlv2-with-clasp",
+                "--mode=dlv2clasp",
+                "--istats",
+                "--incremental-heuristic=1"
+            ]
+        },
+        "no remodel": {
+            "enabled": false,
+            "type": "incremental-clingo",
+            "command": [
+                "./bin/incremental-dlv2-with-clasp",
+                "--mode=dlv2clasp",
+                "--istats",
+                "--incremental-heuristic=0"
+            ]
+        },
+        "std incr": {
+            "enabled": false,
+            "type": "incremental-dlv2",
+            "command": [
+                "./bin/incremental-dlv2",
+                "--istats"
+            ]
+        },
+        "clingo": {
+            "enabled": false,
+            "type": "clingo",
+            "command": [
+                "clingo",
+                "--stats"
+            ]
+        },
+        "dlv2": {
+            "enabled": false,
+            "type": "dlv2",
+            "command": [
+                "./bin/dlv-2.1.1",
+                "--stats=1"
+            ]
+        },
+        "clingo api heu": {
+            "enabled": true,
+            "type": "clingo_api",
+            "command": [
+                "python3",
+                "bin/clingo_heuristic.py"
+            ]
+        },
+        "clingo api": {
+            "enabled": false,
+            "type": "clingo_api",
+            "command": [
+                "python3",
+                "bin/clingo_heuristic.py",
+                "--no-heuristic"
+            ]
+        }
+    },
+    "problems": [
+        {
+            "path": "problems/mmedia/inp.txt",
+            "enabled": false
+        },
+        {
+            "path": "problems/3-col/input.xml",
+            "enabled": true
+        },
+        {
+            "path": "problems/solar/solar-30nodes/template.xml",
+            "enabled": false
+        },
+        {
+            "path": "problems/nurse_scheduling/10nurses/template.xml",
+            "enabled": false
+        },
+        {
+            "path": "problems/nurse_scheduling/20nurses/template.xml",
+            "enabled": false
+        },
+        {
+            "path": "problems/nurse_scheduling/41nurses/template.xml",
+            "enabled": false
+        },
+        {
+            "path": "problems/nurse_scheduling/82nurses/template.xml",
+            "enabled": false
+        }
+    ],
+    "number_of_runs": 1,
+    "timeout": 600
+}

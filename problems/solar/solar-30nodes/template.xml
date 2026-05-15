@@ -1,0 +1,122 @@
+<load path="problems/solar/solar-30nodes/encoding.asp"/>
+<load background="true" path="problems/solar/solar-30nodes/shot.background"/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811841"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811842"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811843"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811844"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811845"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811846"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811847"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811848"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811849"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811850"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811851"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811852"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811853"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811854"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811855"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811856"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811857"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811858"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811859"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811860"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811861"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811862"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811863"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811864"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811865"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811866"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811867"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811868"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811869"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811870"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811871"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811872"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811873"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811874"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811875"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811876"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811877"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811878"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811879"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811880"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811881"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811882"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811883"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811884"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811885"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811886"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811887"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811888"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811889"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811890"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811891"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811892"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811893"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811894"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811895"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811896"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811897"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811898"/>
+<run/>
+<load path="problems/solar/solar-30nodes/filter_input_time_point_1619811899"/>
+<run/>
+<reset/>
+<exit/>
