@@ -266,8 +266,6 @@ def verify_model(model_atoms, encoding, instances_to_load, background):
     return is_valid
 
 def verify_unsat(encoding, instances_to_load, background, timeout=120):
-    import clingo
-    
     file_list = [encoding]
     if background:
         file_list.append(background)
